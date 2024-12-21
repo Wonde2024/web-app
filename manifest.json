@@ -1,0 +1,11 @@
+{
+  "name": "Hotline Management App",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "id": "00001",
+  "display_override": [
+    "standalone",
+    "window-controls-overlay"
+  ],
+  "short_name": "HMA"
+}
